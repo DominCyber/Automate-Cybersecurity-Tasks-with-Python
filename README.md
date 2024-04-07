@@ -29,12 +29,19 @@ The project was presented as if the user was a security professional for a healt
 ### Steps
 <img src="https://i.imgur.com/7K0GFjR.jpg" style="width: 85%;" alt="1">
 <p><i>Ref 1: Open, read, and convert the data type of the file that contains the allow list</i></p>
+The variable import_file calls the stored text file that contains the allowed employee IP addresses.
+The variable that contains the restricted IP addresses is included as well.
+The OPEN function within the WITH statement contains the variable calling the file into the script as well as the “r” argument, all to store a working instance of the allow list file into memory with a reading execution into a variable called “file”.
+From here, the “file” variable is passed off to a new variable, “ip_addresses”, in order to process the .read() function. Lastly, the “ip_addresses” variable is converted to a list data type with the .split() function, parsing the IP's out in a more readible format when passed off to the print() function.
 
 <img src="https://i.imgur.com/60BcgsP.jpg" style="width: 85%;" alt="1">
 <p><i>Ref 2: Iterative Statement writing</i></p>
+After the .split() function is added, an FOR iterative statement is computed, which declares a new variable, “element”, which iteratively loops, throughout the data stored in “ip_addresses”, where the process is store therein. “Element” is passed off to the .print() function, demonstrating the execution of the  FOR statement.
 
 <img src="https://i.imgur.com/MgYYP2p.jpg" style="width: 85%;" alt="1">
 <p><i>Ref 3: Remove IP addresses that are on the remove list</i></p>
+An IF conditional statement is added to the FOR iterative statement, which says that if there is any data found within the “remove_list” variable, when vetted against the stored data from “ip_addresses” in “element” an looped argument will evoke a .remove() function. This promptly removed data found in “remove_list”  from “ip_addresses”. This is ultimately passed on to the .print() function to output the allow list in the .split() function format, but noticably without the ip addresses found in “remove_list”.
 
 <img src="https://i.imgur.com/76ZAuJ9.jpg" style="width: 85%;" alt="1">
 <p><i>Ref 4: Update the file with the revised list of IP addresses</i></p>
+Instead of printing an output, the newly updated data stored in “ip_addresses” is reformated with the .join function, followed by a WITH-OPEN statement denoting the agrument “w” (write) and “ip_addresses” stored within a new variable “file” which is passed off to to a .write() function, which ultimately updates the original “ip_addresses” memory space, and thus the external allow_list.txt file containing allowed employee host computer IP addresses which need access to patient PHI.
