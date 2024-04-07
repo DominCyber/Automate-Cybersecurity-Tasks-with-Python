@@ -44,4 +44,5 @@ An IF conditional statement is added to the FOR iterative statement, which says 
 
 <img src="https://i.imgur.com/76ZAuJ9.jpg" style="width: 85%;" alt="1">
 <p><i>Ref 4: Update the file with the revised list of IP addresses</i></p>
+
 Instead of printing an output, the newly updated data stored in “ip_addresses” is reformated with the .join function, followed by a WITH-OPEN statement denoting the agrument “w” (write) and “ip_addresses” stored within a new variable “file” which is passed off to to a .write() function, which ultimately updates the original “ip_addresses” memory space, and thus the external allow_list.txt file containing allowed employee host computer IP addresses which need access to patient PHI.
