@@ -27,7 +27,7 @@ The project was presented as if the user was a security professional for a healt
 <p>-Coursera Google Cybersecurity Professional Certificate Course</p>
 
 ### Steps
-<img src="https://i.imgur.com/ZOQ4JQy.jpg" style="width: 50%;" alt="1">
+<img src="https://i.imgur.com/7K0GFjR.jpg" style="width: 75%;" alt="1">
 <p><i>Ref 1: Open, read, and convert the data type of the file that contains the allow list</i></p>
 
 ![2](https://i.imgur.com/60BcgsP.jpg)
@@ -38,6 +38,3 @@ The project was presented as if the user was a security professional for a healt
 
 ![4](https://i.imgur.com/76ZAuJ9.jpg)
 <p><i>Ref 4: Update the file with the revised list of IP addresses</i></p>
-
-<img src="https://i.imgur.com/ZOQ4JQy.jpg" style="width: 50%;" alt="1">
-<p><i>Preview of mainpage</i></p>
