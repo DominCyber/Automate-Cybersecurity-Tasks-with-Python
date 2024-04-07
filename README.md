@@ -28,5 +28,13 @@ Understand how the Python programming language is used in security
 
 ### Steps
 ![1](https://i.imgur.com/7K0GFjR.jpg)
-<p><i>Ref 1: Open and read the file that contains the allow list</i> </p>
+<p><i>Ref 1: Open and read the file that contains the allow list</i></p>
 
+![2](https://i.imgur.com/60BcgsP.jpg)
+<p><i>Ref 2: Iterative Statement writing</i></p>
+
+![3](https://i.imgur.com/MgYYP2p.jpg)
+<p><i>Ref 3: Remove IP addresses that are on the remove list</i></p>
+
+![4](https://i.imgur.com/76ZAuJ9.jpg)
+<p><i>Ref 4: Update the file with the revised list of IP addresses</i></p>
