@@ -27,7 +27,7 @@ The project was presented as if the user was a security professional for a healt
 <p>-Coursera Google Cybersecurity Professional Certificate Course</p>
 
 ### Steps
-<img src="https://i.imgur.com/7K0GFjR.jpg" style="width: 75%;" alt="1">
+<img src="https://i.imgur.com/7K0GFjR.jpg" style="width: 90%;" alt="1">
 <p><i>Ref 1: Open, read, and convert the data type of the file that contains the allow list</i></p>
 
 ![2](https://i.imgur.com/60BcgsP.jpg)
