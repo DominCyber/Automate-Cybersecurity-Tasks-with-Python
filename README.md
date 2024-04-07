@@ -28,7 +28,7 @@ Understand how the Python programming language is used in security
 
 ### Steps
 ![1](https://i.imgur.com/7K0GFjR.jpg)
-<p><i>Ref 1: Open and read the file that contains the allow list</i></p>
+<p><i>Ref 1: Open, read, and convert the data type of the file that contains the allow list</i></p>
 
 ![2](https://i.imgur.com/60BcgsP.jpg)
 <p><i>Ref 2: Iterative Statement writing</i></p>
