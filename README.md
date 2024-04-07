@@ -30,11 +30,11 @@ The project was presented as if the user was a security professional for a healt
 <img src="https://i.imgur.com/7K0GFjR.jpg" style="width: 85%;" alt="1">
 <p><i>Ref 1: Open, read, and convert the data type of the file that contains the allow list</i></p>
 
-<img src="https://i.imgur.com/60BcgsP.jpg" style="width: 90%;" alt="1">
+<img src="https://i.imgur.com/60BcgsP.jpg" style="width: 85%;" alt="1">
 <p><i>Ref 2: Iterative Statement writing</i></p>
 
-<img src="https://i.imgur.com/MgYYP2p.jpg" style="width: 90%;" alt="1">
+<img src="https://i.imgur.com/MgYYP2p.jpg" style="width: 85%;" alt="1">
 <p><i>Ref 3: Remove IP addresses that are on the remove list</i></p>
 
-<img src="https://i.imgur.com/76ZAuJ9.jpg" style="width: 90%;" alt="1">
+<img src="https://i.imgur.com/76ZAuJ9.jpg" style="width: 85%;" alt="1">
 <p><i>Ref 4: Update the file with the revised list of IP addresses</i></p>
