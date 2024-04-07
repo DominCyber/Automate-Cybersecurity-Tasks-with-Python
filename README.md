@@ -27,5 +27,6 @@ Understand how the Python programming language is used in security
 -Coursera Google Cybersecurity Professional Certificate Course
 
 ### Steps
-
+![1](https://i.imgur.com/7K0GFjR.jpg)
+<p>*Ref 1: Open and read the file that contains the allow list*</p>
 
