@@ -24,7 +24,7 @@ The project was presented as if the user was a security professional for a healt
 
 ### Tools Used
 -Laptop
--Coursera Google Cybersecurity Professional Certificate Course
+<p>-Coursera Google Cybersecurity Professional Certificate Course</p>
 
 ### Steps
 ![1](https://i.imgur.com/7K0GFjR.jpg)
