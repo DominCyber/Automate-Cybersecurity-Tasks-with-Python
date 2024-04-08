@@ -29,7 +29,7 @@ The project was presented as if the user was a security professional for a healt
 ### Steps
 <img src="https://i.imgur.com/7K0GFjR.jpg" style="width: 85%;" alt="1">
 <p><i>Ref 1: Open, read, and convert the data type of the file that contains the allow list</i></p>
-The variable import_file calls the stored text file that contains the allowed employee IP addresses.
+The variable "import_file" calls the stored text file that contains the allowed employee IP addresses.
 The variable that contains the restricted IP addresses is included as well.
 The OPEN function within the WITH statement contains the variable calling the file into the script as well as the “r” argument, all to store a working instance of the allow list file into memory with a reading execution into a variable called “file”.
 From here, the “file” variable is passed off to a new variable, “ip_addresses”, in order to process the .read() function. Lastly, the “ip_addresses” variable is converted to a list data type with the .split() function, parsing the IP's out in a more readible format when passed off to the print() function.
