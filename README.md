@@ -1,6 +1,6 @@
 # Automate Cybersecurity Tasks with Python
 ## Objective
-Coursera Google Cybersecurity Professional Certificate Course work intend to impart practical cybersecurity skills. This guided project utilizes a virtual environment to rapidly familiarize users with Python-enabled automation for cybersecurity tasks. Specifically, this project allows users to demonstrate processes that import, open, read, extract, parse, and update data from an external log file, utilizing the various components of the Python Programming Language.
+The Coursera Google Cybersecurity Professional Certification Course work provides practical cybersecurity skills. This guided project utilizes a virtual machine environment to familiarize cybersecurity professionals with Python-enabled automation for cybersecurity tasks. Specifically, this project explores processes that import, open, read, extract, parse, and update data from an external log file, utilizing the various components of the Python Programming Language.
 
 The project was presented as if the user was a security professional for a healthcare company who needed to vet an existing IP address allow list against a IP address remove list variable by running the allow list through a Python script.
 
@@ -24,7 +24,7 @@ The project was presented as if the user was a security professional for a healt
 
 ### Tools Used
 -Laptop
-<p>-Coursera Google Cybersecurity Professional Certificate Course</p>
+<p>-Coursera Google Cybersecurity Professional Certification Course</p>
 
 ### Steps
 <img src="https://i.imgur.com/7K0GFjR.jpg" style="width: 85%;" alt="1">
